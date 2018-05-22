@@ -13,6 +13,8 @@ This will work only for linux based Operating Systems
 To run the file system:
 
 1) type in pip3 install fusepy in the terminal
+
+   then type in pip3 install python3-keyczar in the terminal
    
    run the shell script runfs.sh ( if it is the first time)
    
