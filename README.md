@@ -10,9 +10,13 @@ This will work only for linux based machines
 TO RUN THE FILE SYSTEM
 
 1) type in pip3 install fusepy in the terminal
+   
    run the shell script runfs.sh ( if it is the first time)
+   
    Otherwise type the following command
+   
    python3 fusepy.py <Your-root> <Your-mountpoint>
 
 2) Now run te2.py to edit and save files.
+
 3) Commands like echo,cat,mkdir,etc are all supported.
