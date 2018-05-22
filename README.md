@@ -8,7 +8,7 @@ python3 te2.py
 
 This should open a tkinter app where you can edit and save files.
 
-This will work only for linux based machines
+This will work only for linux based Operating Systems
 
 To run the file system:
 
