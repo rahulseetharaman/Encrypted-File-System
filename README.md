@@ -5,9 +5,12 @@ Note : Do not use Vim or any other text editor.
 To edit or view files , run the file te2.py
 python3 te2.py
 This should open a tkinter app where you can edit and save files.
+This will work only for linux based machines
 
 TO RUN THE FILE SYSTEM
-1) run the shell script runfs.sh ( if it is the first time)
+
+1) type in pip3 install fusepy in the terminal
+   run the shell script runfs.sh ( if it is the first time)
    Otherwise type the following command
    python3 fusepy.py <Your-root> <Your-mountpoint>
 
