@@ -20,7 +20,7 @@ To run the file system:
    
    Otherwise type the following command
    
-   python3 fusepy.py <<Your-root>> <<Your-mountpoint>>
+   python3 fusepy.py (Your-root) (Your-mountpoint)
 
 2) Now run te2.py to edit and save files.
 
